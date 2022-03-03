@@ -1,18 +1,18 @@
 ### Olá, eu sou Marielle Carvalho! Seja bem-vindo.
 - 🌱 Estou estudando atualmente: JavaScript, HTML e CSS.
-- 📫 E-mail: mariellecarvaloleal@gmail.com
+- 📫 E-mail: mariellecarvalholeal@gmail.com
 
 <div align="center">
   <a href="https://github.com/mariellecarvalholeal">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=mariellecarvalholeal&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariellecarvalholeal&layout=compact&langs_count=7&theme=nord"/>
+  <img height="180" width="500" src="https://github-readme-stats.vercel.app/api?username=mariellecarvalholeal&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="180" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariellecarvalholeal&layout=compact&langs_count=7&theme=nord"/>
 </div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:150px;" src="https://media.discordapp.net/attachments/781192959290769428/949048728399015936/output_7p1ZMX.gif?width=432&height=432">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/781192959290769428/949048728399015936/output_7p1ZMX.gif?width=432&height=432">
   
 </div>
   
