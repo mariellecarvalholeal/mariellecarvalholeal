@@ -1,4 +1,4 @@
-### Olá, eu sou Marielle Carvalho! Seja bem-vindo.
+### Olá, eu sou Marielle Carvalho!
 - 🌱 Estou estudando atualmente: JavaScript, HTML e CSS.
 - 📫 E-mail: mariellecarvalholeal@gmail.com
 
